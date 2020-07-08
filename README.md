@@ -1,10 +1,12 @@
 # BankAccountKata
 Bank Account Kata
+# Requirements : 
 
-Requirements : 
+Spring boot v2.
 
-Spring boot v2. 
 Java +1.8.
+
+# User Stories :
 
 Bank account Api that manages a bank account
 
